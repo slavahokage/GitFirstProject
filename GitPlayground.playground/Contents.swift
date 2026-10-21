@@ -7,3 +7,6 @@ print(greeting)
 
 var age = 30
 print(age)
+
+var isNight = true
+print(isNight)
