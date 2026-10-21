@@ -10,3 +10,6 @@ print(age)
 
 var isNight = true
 print(isNight)
+
+var greeting2 = "Hello, World"
+print(greeting2)
